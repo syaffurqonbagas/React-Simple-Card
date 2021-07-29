@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Simple-Card/static/css/main.1bd529da.chunk.css",
+    "main.js": "/React-Simple-Card/static/js/main.d28b579a.chunk.js",
+    "main.js.map": "/React-Simple-Card/static/js/main.d28b579a.chunk.js.map",
+    "runtime-main.js": "/React-Simple-Card/static/js/runtime-main.66295374.js",
+    "runtime-main.js.map": "/React-Simple-Card/static/js/runtime-main.66295374.js.map",
+    "static/js/2.782ee189.chunk.js": "/React-Simple-Card/static/js/2.782ee189.chunk.js",
+    "static/js/2.782ee189.chunk.js.map": "/React-Simple-Card/static/js/2.782ee189.chunk.js.map",
+    "static/js/3.4088dee0.chunk.js": "/React-Simple-Card/static/js/3.4088dee0.chunk.js",
+    "static/js/3.4088dee0.chunk.js.map": "/React-Simple-Card/static/js/3.4088dee0.chunk.js.map",
+    "index.html": "/React-Simple-Card/index.html",
+    "static/css/main.1bd529da.chunk.css.map": "/React-Simple-Card/static/css/main.1bd529da.chunk.css.map",
+    "static/js/2.782ee189.chunk.js.LICENSE.txt": "/React-Simple-Card/static/js/2.782ee189.chunk.js.LICENSE.txt",
+    "static/media/photo.28c7e793.png": "/React-Simple-Card/static/media/photo.28c7e793.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66295374.js",
+    "static/js/2.782ee189.chunk.js",
+    "static/css/main.1bd529da.chunk.css",
+    "static/js/main.d28b579a.chunk.js"
+  ]
+}
